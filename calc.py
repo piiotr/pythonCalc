@@ -1,4 +1,3 @@
-import os
 flag = False 
 
 print("Instrukcja: ")    
